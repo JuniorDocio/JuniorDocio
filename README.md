@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Valdinei Dócio Moreno Júnior!
 
 ## About Me
-I'm a 24-year-old **AI Engineer** with a degree in **Systems Analysis and Development** and a **Postgraduate Certificate from MIT** in **Artificial Intelligence, Machine Learning, and Deep Learning**. Originally from **Bahia**, I now live in **Rio de Janeiro**, Brazil!
+I'm a 25-year-old **AI Engineer** with a degree in **Systems Analysis and Development** and a **Postgraduate Certificate from MIT** in **Artificial Intelligence, Machine Learning, and Deep Learning**. Originally from **Bahia**, I now live in **Rio de Janeiro**, Brazil!
 
 ---
 
